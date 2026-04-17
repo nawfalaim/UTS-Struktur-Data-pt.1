@@ -27,7 +27,7 @@ Metode ini dapat diibaratkan seperti proses “menggeser” nilai terbesar secar
 [Bubble Sort](BubbleSort.java)
 
 ### Output Bubble Sort
-![Bubble Sort](bubble.png)
+![Bubble](https://raw.githubusercontent.com/USERNAME/NAMA-REPO/main/bubble.png)
 
 ---
 
@@ -41,7 +41,7 @@ Cara kerja metode ini mirip seperti menyusun kartu secara berurutan di tangan, d
 [Insertion Sort](InsertionSort.java)
 
 ### Output Insertion Sort
-![Insertion Sort](insertion.png)
+![Insertion](https://raw.githubusercontent.com/USERNAME/NAMA-REPO/main/insertion.png)
 
 ---
 
@@ -55,7 +55,7 @@ Metode ini lebih menekankan pada proses pemilihan nilai terbaik di setiap langka
 [Selection Sort](SelectionSort.java)
 
 ### Output Selection Sort
-![Selection Sort](selection.png)
+![Selection](https://raw.githubusercontent.com/USERNAME/NAMA-REPO/main/selection.png)
 
 ---
 
